@@ -1,7 +1,6 @@
+# Deployment 
 
 This app is deployed on Firebase 
-
-
 
 # Bib
 
